@@ -41,6 +41,6 @@ npm run dev
 ```
 
 ## Скриншоты
-![Главный экран](./tip_kr5/images/image.png)
+![Главный экран](./images/image.png)
 
-![Управление палитарми](./tip_kr5/images/image1.png)
+![Управление палитрами](./images/image1.png)
